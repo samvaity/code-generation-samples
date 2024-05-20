@@ -1,3 +1,5 @@
-com\service\clientlibrary\implementation\GeneratedServiceAPI.class
 com\service\clientlibrary\implementation\TodoItemsAttachmentsService.class
+com\service\clientlibrary\implementation\TodoItemsService.class
 com\service\clientlibrary\ClientLibrary.class
+com\service\clientlibrary\implementation\TodoItemsAttachmentsServiceImpl.class
+com\service\clientlibrary\implementation\TodoItemsServiceImpl.class
